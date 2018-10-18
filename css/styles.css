@@ -23,13 +23,13 @@
   animation-direction: alternate;
 }
 
-/*@keyframes open {
+@keyframes open {
   to {
     transform: rotate(-80deg);
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
