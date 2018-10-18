@@ -13,7 +13,7 @@
   height: 1.5em;
 }
 
-/*.clapper > div:nth-of-type(1) {
+.clapper>div:nth-of-type(1) {
   animation-name: open;
   transform-origin: left;
   animation-duration: .25s;
@@ -23,7 +23,7 @@
   animation-direction: alternate;
 }
 
-@keyframes open {
+/*@keyframes open {
   to {
     transform: rotate(-80deg);
   }
